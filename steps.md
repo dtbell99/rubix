@@ -22,7 +22,7 @@ Fish (pointing bottom left) (left top right yellow)
 * R-U-Ri-U-R-U2-Ri
 
 ## Step 7 Matching Corners with one solid color in back
-* Li-U-R-Ui-L-U-Ri-R-U-Ri-U-R-U2-Ri
+* Li-U-R-Ui-L-U2-Ri-U-R-U2-Ri
 
 ## Step 8 Spin remaining 3 middle pieces
 * Clockwise: 
